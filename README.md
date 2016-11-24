@@ -5,6 +5,17 @@ A tag-cloud based image browsing UI
 
 ## Installation
 
+This is a work in progress. At the moment all included resources should be imported into your Java project using the above file structure. 
+
+Third-party libraries are included in the library folder.
+
+Necessary resources:
+
+- The current tag library is stored in /res/tags.txt 
+- Semantic distances retrieved by the Retina API are stored in /distances.txt
+- Example images and their respective tags are stored in /images.txt
+
+Java 8 in required.
 
 ## Usage
 
@@ -15,7 +26,7 @@ A tag-cloud based image browsing UI
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request!
 
 ## Credits
 
