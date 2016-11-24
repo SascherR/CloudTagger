@@ -15,9 +15,13 @@ Necessary resources:
 - Semantic distances retrieved by the Retina API are stored in /distances.txt
 - Example images and their respective tags are stored in /images.txt
 
-Java 8 in required.
+Min. requirements: Java SE 8 Update 65
 
 ## Usage
+
+Import images of choice. Images can be tagged via dragging the desired tag out of the tag cloud onto the target image - removal of tags is possible via right-click and context menu. The tag cloud browser interface allows different “zoom” levels (1x-4x)determining the amount of steps taken while moving through the semantic distances. 
+
+Adding new tags is currently not (yet) implemented.
 
 
 ## Contributing
