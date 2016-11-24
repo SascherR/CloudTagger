@@ -1,7 +1,8 @@
 
 # CloudTagger
 
-A tag-cloud based image browsing UI
+A tag cloud based image browsing UI utilizing semantic distances provided by cortical.io’s Retina REST API.
+
 
 ## Installation
 
@@ -21,7 +22,7 @@ Min. requirements: Java SE 8 Update 65
 
 Import images of choice. Images can be tagged via dragging the desired tag out of the tag cloud onto the target image - removal of tags is possible via right-click and context menu. The tag cloud browser interface allows different “zoom” levels (1x-4x)determining the amount of steps taken while moving through the semantic distances. 
 
-Adding new tags is currently not (yet) implemented.
+Adding new tags is currently not (yet) implemented. 
 
 
 ## Contributing
