@@ -1,6 +1,5 @@
-# Project Name
 
-CloudTagger
+# CloudTagger
 
 A tag-cloud based image browsing UI
 
