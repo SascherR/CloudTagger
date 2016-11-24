@@ -41,7 +41,7 @@ Sascha Rasler
 
 MIT License
 
-Copyright (c) 2016 Sascha Rasler
+Copyright (c) 2015-2016 Sascha Rasler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
